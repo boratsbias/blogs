@@ -14,6 +14,13 @@ content = "This Web 3.0 medical annotation framework targets genito-urinary and 
 
 [[collection]]
 type = "card"
+title = "AmbedOntoS: Large Scale Ontology Synthesis for Ambedkar and Peace Studies"
+subtitle = "Anubrat Bora, Gerard Deepak and Harshabrat Bora"
+link = "https://link.springer.com/chapter/10.1007/978-3-032-24075-0_17"
+content = "This Web 3.0 framework targets large-scale ontology synthesis for Ambedkar and Peace Studies. It combines semantic technologies, deep learning, and generative AI using OpenKLAS for metadata generation, DistilBERT for contextual classification, and Latent Semantic Indexing (LSI) for seed knowledge generation, while leveraging Llama-4-Scout and Mistral-Medium-3 for knowledge expansion. The work facilitates scalable knowledge representation, semantic interoperability, and intelligent knowledge discovery in domains of significant socioeconomic and societal importance."
+
+[[collection]]
+type = "card"
 title = "VRSIL: Video Recommendation with Semantic Intelligence"
 subtitle = "Anubrat Bora and Dr. Gerard Deepak"
 link = "https://link.springer.com/chapter/10.1007/978-3-031-96473-2_2"
