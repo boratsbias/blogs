@@ -17,7 +17,7 @@ type = "card"
 title = "AmbedOntoS: Large Scale Ontology Synthesis for Ambedkar and Peace Studies"
 subtitle = "Anubrat Bora, Gerard Deepak and Harshabrat Bora"
 link = "https://link.springer.com/chapter/10.1007/978-3-032-24075-0_17"
-content = "This Web 3.0 framework targets large-scale ontology synthesis for Ambedkar and Peace Studies. It combines semantic technologies, deep learning, and generative AI using OpenKLAS for metadata generation, DistilBERT for contextual classification, and Latent Semantic Indexing (LSI) for seed knowledge generation, while leveraging Llama-4-Scout and Mistral-Medium-3 for knowledge expansion. The work facilitates scalable knowledge representation, semantic interoperability, and intelligent knowledge discovery in domains of significant socioeconomic and societal importance."
+content = "A Web 3.0 ontology synthesis framework for Ambedkar and Peace Studies, combining OpenCalais metadata generation, DistilBERT classification, LSI seed knowledge, and Llama-4-Scout and Mistral-Medium-3 for generative expansion."
 
 [[collection]]
 type = "card"
