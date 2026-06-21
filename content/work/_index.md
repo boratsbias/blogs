@@ -8,7 +8,7 @@ title = "Work"
 subtitle = "Things I've built, written, and been part of."
 +++
 
-[Check out my resume ↗](/anubrat-bora-2026-A.pdf)
+[Check out my resume ↗](/anubrat_bora_2026_A.pdf)
 
 # Projects
 
