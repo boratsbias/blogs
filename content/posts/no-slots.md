@@ -26,7 +26,7 @@ About to graduate, and naturally I had plans, New York City, obviously, very ori
 
 College bet, master's plan, felt strategic. Turns out betting your safety net on one visa appointment ain't strategy, it's gambling with paperwork.
 
-{{ figure(src="/img/no-slots/b1.jpg", alt="an ornate paper floral ceiling installation with a hanging light fixture", caption="Pretty as a picture, going absolutely nowhere") }}
+{{ figure(src="/img/no-slots/b1.jpg", alt="an ornate paper floral ceiling installation with a hanging light fixture", caption="Beautifully stuck under it") }}
 
 One flight got cancelled, had to chase another, all while watching Messi cry on TV, like the universe decided to sync our sad weeks for free.
 
