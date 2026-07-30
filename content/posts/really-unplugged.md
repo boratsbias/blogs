@@ -5,7 +5,7 @@ date = 2024-09-29
 draft = false
 
 [taxonomies]
-tags = ["trip"]
+tags = ["family", "travel"]
 
 [extra]
 lang = "en"

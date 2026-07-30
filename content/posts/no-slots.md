@@ -5,7 +5,7 @@ date = 2026-07-29
 draft = false
 
 [taxonomies]
-tags = ["life"]
+tags = ["college", "internship", "life"]
 
 [extra]
 lang = "en"

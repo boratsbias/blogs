@@ -5,7 +5,7 @@ date = 2024-01-25
 draft = false
 
 [taxonomies]
-tags = ["home"]
+tags = ["family", "life"]
 
 [extra]
 lang = "en"

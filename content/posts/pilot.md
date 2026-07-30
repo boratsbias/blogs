@@ -5,7 +5,7 @@ date = 2023-08-27
 draft = false
 
 [taxonomies]
-tags = ["first"]
+tags = ["meta"]
 
 
 [extra]

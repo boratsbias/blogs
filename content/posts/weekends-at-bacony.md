@@ -5,7 +5,7 @@ date = 2023-10-11
 draft = false
 
 [taxonomies]
-tags = ["college"]
+tags = ["college", "life"]
 
 [extra]
 lang = "en"
