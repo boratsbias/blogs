@@ -1,6 +1,6 @@
 +++
 title = "About me"
-description = "About page of ..."
+description = "About page of Anubrat Bora."
 template = "prose.html"
 insert_anchor_links = "none"
 

@@ -1,6 +1,6 @@
 [[collection]]
 type = "card"
-title = "Transformer Architecture: Based on ”Attention Is All You Need”"
+title = "Transformer Architecture: Based on “Attention Is All You Need”"
 link = "https://arxiv.org/abs/1706.03762"
 content = "Built a Transformer from scratch, inspired by Attention Is All You Need, showcasing expertise in neural networks. Trained with PyTorch on a custom dataset, optimizing hyperparameters for a 15% BLEU boost. Analyzed performance using attention heatmaps, loss curves, and evaluation metrics."
 tags = ["transformers", "genai", "pytorch"]
