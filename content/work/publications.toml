@@ -14,6 +14,20 @@ content = "This Web 3.0 medical annotation framework targets genito-urinary and 
 
 [[collection]]
 type = "card"
+title = "AssameseDocRec: Semantic Document Recommendation"
+subtitle = "Anubrat Bora, Gerard Deepak and Samiksha Shukla"
+link = "https://link.springer.com/chapter/10.1007/978-3-032-26269-1_11"
+content = "This Web 3.0 document recommendation framework for Assamese literature combines IndicBERT classification, TF-IDF, generative semantic intelligence, AxiomiyaBERTa metadata generation, and CoSimRank-based semantic reasoning. It applies the Petraitis Index and Invasive Weed Optimization to refine document recommendations, achieving high precision, recall, and overall recommendation accuracy."
+
+[[collection]]
+type = "card"
+title = "AssameseVidRec: Semantic Video Recommendation"
+subtitle = "Anubrat Bora and Gerard Deepak"
+link = "https://link.springer.com/chapter/10.1007/978-3-032-26269-1_12"
+content = "This Web 3.0 video recommendation framework for Assamese content integrates generative semantic intelligence, multilingual knowledge aggregation, ontology-based classification, and SimRank-driven semantic reasoning. It supports intelligent metadata generation, cross-lingual retrieval, and optimized recommendation refinement to deliver relevant and context-aware video recommendations across Assamese and English."
+
+[[collection]]
+type = "card"
 title = "AmbedOntoS: Large Scale Ontology Synthesis for Ambedkar and Peace Studies"
 subtitle = "Anubrat Bora, Gerard Deepak and Harshabrat Bora"
 link = "https://link.springer.com/chapter/10.1007/978-3-032-24075-0_17"
