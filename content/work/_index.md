@@ -10,6 +10,10 @@ subtitle = "Things I've built, written, and been part of."
 
 [Check out my resume ↗](/anubrat_bora_2026_Aa.pdf)
 
+# Experiences
+
+{{ collection(file="experiences.toml") }}
+
 # Projects
 
 {{ collection(file="projects.toml") }}
@@ -17,7 +21,3 @@ subtitle = "Things I've built, written, and been part of."
 # Publications
 
 {{ collection(file="publications.toml") }}
-
-# Experiences
-
-{{ collection(file="experiences.toml") }}

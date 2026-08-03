@@ -18,7 +18,6 @@ icon = "https://cdn.brandfetch.io/idjl1OUzut/w/506/h/578/theme/dark/logo.png?c=1
 content = "Developed an agent-first, multi-turn FastAPI backend for cocktail intelligence supporting web and mobile. Implemented structured agents for intent classification, recipe generation, device control, vision-based ingredient recognition, and action cards using typed Pydantic schemas and JSON APIs. Designed persona-aware routing (emotion, occasion, readiness) and session-based context handling. Optimized latency, quality, and cost through per-agent model selection and fallback strategies. Contributed to structured responses, debugging tools, and system-level enhancements, with roadmap features including persistent memory, tool support, vector databases, and production-ready deployment improvements."
 featured = false  #optional
 
-
 [[collection]]
 type = "card"
 title = "Nexus Info"
@@ -29,3 +28,13 @@ icon = "https://media.licdn.com/dms/image/v2/D560BAQHbJ98jAoTBWw/company-logo_20
 content = "Built a simple chatbot for greetings and conversation tracking. Also developed a college admission chatbot using PDFs for queries on requirements, deadlines, and processes with Streamlit, Groq, LangChain, and LangChain-Groq, enabling multi-turn interactions and contextual memory."
 featured = false  #optional
 
+
+[[collection]]
+type = "card"
+title = "Manipal Academy of Higher Education"
+subtitle = "Undergraduate Researcher (AI)"
+date = "Sep. 2023 - Mar. 2024"
+link = "https://www.manipal.edu/"
+icon = "https://upload.wikimedia.org/wikipedia/en/f/ff/Manipal_University_logo.png"
+content = "Conducted AI research in semantic intelligence, ontology engineering, knowledge graphs, and large language models. Co-authored multiple conference and journal publications on recommendation systems, document intelligence, semantic reasoning, and knowledge-centric AI. Developed intelligent frameworks integrating deep learning, ontologies, and LLMs for automated knowledge organization, classification, and recommendation across multilingual and domain-specific applications."
+featured = false
