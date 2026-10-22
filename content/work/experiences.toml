@@ -4,7 +4,7 @@ title = "Navdyut AI Labs"
 subtitle = "AI Research Engineer"
 date = "May. 2026 – Present"
 link = "https://navdyut.com/"
-icon = "/img/navdyut-logo.avif"
+icon = "https://navdyut.com/assets/logo-textured.avif?v=3"
 content = "Built a native Assamese tokenizer (32K vocabulary, Unigram LM) on a 162M-token corpus with cross-lingual normalization, repairing 11.4% of the dataset and achieving 3.6× fewer tokens per word than Llama 3 and 46.8% better compression than Gemma. Pretrained a 240M-parameter decoder-only LLM on 14.4B curated tokens using PyTorch FSDP across a distributed A40 cluster, transferring hyperparameters from a 31M proxy model and compressing the vocabulary to 8.2K tokens to reallocate ~108M embedding parameters into model capacity."
 featured = true  #optional
 
